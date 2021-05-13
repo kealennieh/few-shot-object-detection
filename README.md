@@ -8,6 +8,9 @@ Track the trend of few-shot object detection.
 #### 1. [CVPR_2021 oral] [FSCE: Few-Shot Object Detection via Contrastive Proposal Encoding](https://arxiv.org/abs/2103.05950)
 * [Code](https://github.com/MegviiDetection/FSCE)
 
+#### 2. [arXiv_2021] [CAT: Cross-Attention Transformer for One-Shot Object Detection](https://arxiv.org/abs/2104.14984)
+
+
 ### 2020
 #### 1. [ICML_2020] [Frustratingly Simple Few-Shot Object Detection](https://arxiv.org/abs/2003.06957)
 * [Code](https://github.com/ucbdrive/few-shot-object-detection)
