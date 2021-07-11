@@ -10,6 +10,8 @@ Track the trend of few-shot object detection.
 
 #### 2. [arXiv_2021] [CAT: Cross-Attention Transformer for One-Shot Object Detection](https://arxiv.org/abs/2104.14984)
 
+#### 3. [arXiv_2021] [Few-Shot Video Object Detection](https://arxiv.org/abs/2104.14805)
+* [Code](https://github.com/fanq15/FewX)
 
 ### 2020
 #### 1. [ICML_2020] [Frustratingly Simple Few-Shot Object Detection](https://arxiv.org/abs/2003.06957)
@@ -18,12 +20,16 @@ Track the trend of few-shot object detection.
 #### 2. [AAAI_2020] [Context-Transformer: Tackling Object Confusion for Few-Shot Detection](https://arxiv.org/pdf/2003.07304.pdf)
 * [Code](https://github.com/Ze-Yang/Context-Transformer)
 
+#### 3. [CVPR2020] [Few-Shot Object Detection with Attention-RPN and Multi-Relation Detector](https://arxiv.org/abs/1908.01998)
+* [Code](https://github.com/fanq15/FewX)
+
 ### 2019
 
 
 ## 2. Dataset
 #### 1. [Few-Shot Object Detection Dataset (FSOD)](https://github.com/fanq15/Few-Shot-Object-Detection-Dataset)
 
+#### 2. [FSVOD-500 dataset](https://arxiv.org/abs/2104.14805)
 
 ## 3. Other
 
