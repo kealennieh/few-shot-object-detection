@@ -16,6 +16,8 @@ Track the trend of few-shot object detection.
 #### 4. [arXiv_2021] [Beyond Max-Margin: Class Margin Equilibrium for Few-shot Object Detection](https://arxiv.org/abs/2103.04612)
 * [Code](https://github.com/Bohao-Lee/CME)
 
+#### 5. [arVix_2021] [Dynamic Relevance Learning for Few-Shot Object Detection](https://arxiv.org/abs/2108.02235)
+* [Code](https://github.com/liuweijie19980216/DRL-for-FSOD)
 
 
 ### 2020
