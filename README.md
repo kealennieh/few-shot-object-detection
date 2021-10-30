@@ -19,6 +19,8 @@ Track the trend of few-shot object detection.
 #### 5. [arVix_2021] [Dynamic Relevance Learning for Few-Shot Object Detection](https://arxiv.org/abs/2108.02235)
 * [Code](https://github.com/liuweijie19980216/DRL-for-FSOD)
 
+#### 6. [arVix_2021] [A Survey of Self-Supervised and Few-Shot Object Detection](https://arxiv.org/abs/2110.14711)
+
 
 ### 2020
 #### 1. [ICML_2020] [Frustratingly Simple Few-Shot Object Detection](https://arxiv.org/abs/2003.06957)
